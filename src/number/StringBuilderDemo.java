@@ -1,4 +1,4 @@
-package Number;
+package number;
 
 /**
  * 字符串生成器

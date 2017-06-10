@@ -1,8 +1,4 @@
-package Number;
-
-import java.awt.*;
-import java.util.Timer;
-import java.util.TimerTask;
+package number;
 
 /**
  * Created by bin on 2017/5/21.
